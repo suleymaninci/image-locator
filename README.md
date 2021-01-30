@@ -11,6 +11,7 @@ This image template locator program locates the template image in original image
 
 ### Sample Output
 ```
+$ python3 main.py --template=images/Small_area.png --image=StarMap.png
 template: images/Small_area.png
 Location: 855:969,150:264
 ```
